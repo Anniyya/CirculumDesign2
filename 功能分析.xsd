@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" modified="2024-06-05T02:50:51.013Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) liuchengtu/6.6.4 Chrome/87.0.4280.141 Electron/11.3.0 Safari/537.36" etag="JEpl_-r-6J-vaxTPhs7S" background="rgb(255, 255, 255)" version="14.7.8" type="online">
+  <diagram id="1nchejNekDiKLawFEOVQ" name="第 1 页">
+    <mxGraphModel dx="1997" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="38" target="46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="-145" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="38" target="52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="300" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="38" target="47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="-80" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="38" target="53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="220" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="38" target="45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="-15" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="38" target="54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="38" target="44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="240" />
+              <mxPoint x="60" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40" target="104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="240" />
+              <mxPoint x="455" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40" target="106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="240" />
+              <mxPoint x="555" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40" target="50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40" target="49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40" target="48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="240" />
+              <mxPoint x="830" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40" target="64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="240" />
+              <mxPoint x="895" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40" target="61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="240" />
+              <mxPoint x="957" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41" target="38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="140" />
+              <mxPoint x="130" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41" target="40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="140" />
+              <mxPoint x="685" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" value="功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="购物车:查看购物车餐品列表、修改数量、查看购物车金额、清空购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="60" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="&lt;div&gt;查看所有菜品信息&lt;/div&gt;&lt;div&gt;，添加到购物车&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="280" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="用户注册登录&lt;br&gt;个人中心修改密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="280" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="模糊搜索菜品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="280" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="管理:外卖订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="282.5" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="管理:商品分类、商品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="282.5" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="审核注册的顾客（增），管理:顾客信息（改），删除顾客信息（删），展示顾客信息（查&lt;br&gt;），" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="282.5" width="80" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="&lt;div&gt;我的:个人信息、收货地址管理、我的评价管理、退出&lt;/div&gt;、（关于我们）、（用户协议）&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="60" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="&lt;div&gt;订单:查看所有订单、支付订单、取消订单、确认收货、评价商家、申请退款、删除订单&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="60" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="&lt;div&gt;确认订单:设置送货地址、确认餐品信息、确认金额信息、备注、点击下单&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="282.5" width="60" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="管理:评价信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="282.5" width="33" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="64" value="管理:广告轮播图信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="282.5" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="80" value="搜索" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="-95" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="81" value="查看菜品" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="-45" y="470" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="82" value="下单支付" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="20" y="470" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="83" value="用户设置订单信息" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="105" y="455" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="85" value="顾客操作订单" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="175" y="490" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87" value="修改个人信息功能" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="250" y="532.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89" value="类目管理" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="720" y="532.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="91" value="订单管理" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="800" y="532.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="92" value="用户管理" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="620" y="532.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="94" value="菜品管理" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="720" y="565" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95" value="轮播图管理" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="860" y="565" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="96" value="评价管理" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="926.5" y="532.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="104" value="管理员登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="70" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="105" value="登录功能" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="420" y="532.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="106" value="统计菜品销量情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="70" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="107" value="统计功能" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="525" y="532.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="111" value="登录" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="-170" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="116" value="反馈功能" style="text;html=1;align=center;verticalAlign=middle;autosize=1;strokeColor=none;fillColor=none;" vertex="1" name="文本" parent="1">
+          <mxGeometry x="270" y="565" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
