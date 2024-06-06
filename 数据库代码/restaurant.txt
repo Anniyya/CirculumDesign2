@@ -1,0 +1,59 @@
+-- 管理员表
+CREATE TABLE administrator (
+    aid INT PRIMARY KEY AUTO_INCREMENT,
+    apwd VARCHAR(255) NOT NULL,
+    aname VARCHAR(100) NOT NULL,
+    aphone VARCHAR(20),
+    aaddress VARCHAR(255)
+);
+
+-- 顾客表
+CREATE TABLE customer (
+    cid INT PRIMARY KEY AUTO_INCREMENT,
+    cpwd VARCHAR(255) NOT NULL,
+    cname VARCHAR(100) NOT NULL,
+    csex CHAR(1),
+    cage INT,
+    cphone VARCHAR(20) NOT NULL
+);
+
+-- 菜单信息表
+CREATE TABLE menu (
+    mid INT PRIMARY KEY AUTO_INCREMENT,
+    mname VARCHAR(100) NOT NULL,
+    type VARCHAR(50),
+    price DECIMAL(10, 2) NOT NULL,
+    text TEXT,
+    aid INT,
+    FOREIGN KEY (aid) REFERENCES administrator(aid)
+);
+
+-- 订单信息表
+CREATE TABLE orderform (
+    oid INT PRIMARY KEY AUTO_INCREMENT,
+    otime DATETIME NOT NULL,
+    status VARCHAR(20) NOT NULL,
+    sum DECIMAL(10, 2) NOT NULL,
+    cid INT,
+    FOREIGN KEY (cid) REFERENCES customer(cid)
+);
+-- 插入管理员表数据
+INSERT INTO administrator (apwd, aname, aphone, aaddress) VALUES
+('password123', 'Admin1', '1234567890', 'Address1'),
+('password456', 'Admin2', '0987654321', 'Address2');
+
+-- 插入顾客表数据
+INSERT INTO customer (cpwd, cname, csex, cage, cphone) VALUES
+('custpass1', 'Customer1', 'M', 25, '1112223333'),
+('custpass2', 'Customer2', 'F', 30, '4445556666');
+
+-- 插入菜单信息表数据
+INSERT INTO menu (mname, type, price, text, aid) VALUES
+('Dish1', 'Type1', 10.00, 'Delicious dish 1', 1),
+('Dish2', 'Type2', 15.50, 'Delicious dish 2', 1),
+('Dish3', 'Type1', 20.00, 'Delicious dish 3', 2);
+
+-- 插入订单信息表数据
+INSERT INTO orderform (otime, status, sum, cid) VALUES
+('2024-06-06 12:00:00', 'Pending', 25.50, 1),
+('2024-06-06 13:00:00', 'Completed', 30.00, 2);
